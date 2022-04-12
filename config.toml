@@ -1,4 +1,4 @@
-baseURL = "https://yuxian.vercel.app"
+baseURL = "https://yuxianxu.netlify.app"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
