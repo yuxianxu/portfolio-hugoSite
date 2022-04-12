@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://yuxian.netlify.app"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
