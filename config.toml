@@ -1,4 +1,4 @@
-baseURL = "https://yuxianxu.netlify.app"
+baseURL = "https://yuxianxu.herokuapp.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
